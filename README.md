@@ -1,34 +1,49 @@
-# TCC - Cidades Inteligentes Aplicado à Univap
+# TCC – Cidades Inteligentes aplicadas à Univap 🚀
 
-Este repositório contém o Trabalho de Conclusão de Curso sobre Cidades Inteligentes, com foco em aplicações e projeções para a Univap.
+Repositório do Trabalho de Conclusão de Curso (TCC) que explora conceitos, indicadores e aplicações de cidades inteligentes, adaptados para a realidade acadêmica da Univap. Todo o caminho do projeto está documentado aqui, incluindo códigos, relatórios, simulações, o artigo científico final, e a aplicação do conceito de Digital Twin (Gêmeo Digital).
 
 ## Objetivos
-- Avaliar indicadores de cidades inteligentes aplicáveis à Univap.
-- Desenvolver relatórios de diagnóstico e projeção.
-- Gerar simulações e gráficos com dados reais e hipotéticos.
-- Produzir um artigo acadêmico de alta qualidade para publicação.
 
-## Organização
-- **data**: Bases de dados utilizadas nas análises e diagnósticos.
-- **relatorios**: Relatórios periódicos e finais, em diversos formatos.
-- **src**: Código para extração, análise e projeção de indicadores.
-- **artigo**: Artigo completo para publicação e avaliação.
-- **docs**: Documentação extra, diagramas, apresentações.
-- **resultados**: Gráficos, tabelas, mapas e projeções geradas.
+- Diagnosticar e propor soluções para ambientes universitários inteligentes.
+- Gerar relatórios e projeções com base em dados reais da Univap.
+- Produzir um artigo científico de alta qualidade para publicação ou defesa.
+- Integrar tecnologias (IoT, análise de dados, Digital Twin, sustentabilidade e urbanismo) em aplicações de cidades inteligentes.
+
+## Digital Twin – Gêmeo Digital
+
+Este projeto faz uso intensivo do conceito de **Digital Twin** para ambientes universitários, permitindo:
+- Modelagem virtual da infraestrutura e processos da Univap.
+- Simulações e previsões em tempo real usando dados reais e hipotéticos.
+- Otimização e apoio na tomada de decisão para melhorias acadêmicas e operacionais.
+- Interação entre os sistemas físicos e digitais, promovendo eficiência e inovação.
+
+## Estrutura
+
+- `data/` – Bases de dados, fontes e arquivos brutos
+- `relatorios/` – Relatórios periódicos (.md, .docx, .pdf), incluindo modelo inicial
+- `src/` – Scripts, notebooks e códigos de análise/projeção
+- `artigo/` – Versão final e modelos latex/word do artigo acadêmico
+- `docs/` – Documentação extra, apresentações, diagramas
+- `resultados/` – Gráficos, tabelas e projeções dos estudos
 
 ## Tecnologias Sugeridas
-- Python (pandas, matplotlib, seaborn, scikit-learn)
-- Jupyter Notebook
-- LaTeX/Word (artigo)
-- Git/GitHub para versionamento
+
+- **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- **Jupyter Notebook** (relatórios e simulações interativas)
+- **LaTeX ou Word** (artigo científico)
+- **Digital Twin Platforms** (Ex: simuladores simples em Python ou integração com APIs especializadas)
+- **Git & GitHub** (controle de versão e colaboração)
+
+## Como contribuir
+
+Pull Requests são bem-vindos! Siga as orientações acadêmicas e institucionais da Univap.
 
 ## Referências
-- Normas da ABNT e orientações da Univap
-- Ferramentas para cidades inteligentes (IoT, Big Data, sustentabilidade etc.)
-- Modelos de indicadores de cidades inteligentes no Brasil
 
-## Colabore
-Pull Requests são bem-vindos! Siga as orientações acadêmicas.
+- ABNT NBR 6022/6023/10520
+- Normas internas da Univap
+- Modelos de cidades inteligentes (FGV, ITU, BID, etc.)
+- Literatura sobre Digital Twin em ambientes urbanos e universitários
 
 ## Licença
-[MIT License](LICENSE)
+Distribuído sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE).
