@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.out
+
+# Dados sensíveis
+data/*.csv
+data/*.xlsx
+
+# Relatórios temporários
+relatorios/*.docx
+relatorios/*.pdf
+
+# Resultados temporários
+resultados/*.png
+resultados/*.jpg
+
+# Ambiente
+.env
