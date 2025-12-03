@@ -26,17 +26,14 @@ Este projeto faz uso intensivo do conceito de **Digital Twin** para ambientes un
 - `docs/` – Documentação extra, apresentações, diagramas
 - `resultados/` – Gráficos, tabelas e projeções dos estudos
 
-## Tecnologias Sugeridas
+## Tecnologias Usadas
 
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - **Jupyter Notebook** (relatórios e simulações interativas)
-- **LaTeX ou Word** (artigo científico)
-- **Digital Twin Platforms** (Ex: simuladores simples em Python ou integração com APIs especializadas)
+- **LaTeX** (artigo científico)
+- **Digital Twin Platform** 
 - **Git & GitHub** (controle de versão e colaboração)
 
-## Como contribuir
-
-Pull Requests são bem-vindos! Siga as orientações acadêmicas e institucionais da Univap.
 
 ## Referências
 
